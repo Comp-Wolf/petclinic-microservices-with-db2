@@ -18,6 +18,6 @@ target/
 generated/
 
 #VS Code
-.factorypath
-.project
-.rkestate
+*.factorypath
+*.project
+*.rkestate
